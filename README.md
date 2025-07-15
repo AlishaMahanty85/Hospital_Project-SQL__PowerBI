@@ -15,7 +15,7 @@ This project simulates a Hospital Management System built using *MySQL*, designe
 
 ### 🗺 Entity Relationship Diagram
 
-![ER Diagram](https://github.com/alisha85-analyst/Data-Analytics-Portfolio/blob/main/Hospital_Management_SQL_Project/ER_Diagram.png)
+![ER Diagram](https://github.com/AlishaMahanty85/Healthcare_Project_SQL/blob/main/ER_Diagram.png)
 
 
 ## 🛠 Tools & Skills Used
