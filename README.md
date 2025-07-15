@@ -76,5 +76,5 @@ I created a detailed PDF presentation to visually explain this SQL project, incl
 
 ## 📁 Files Included
 
-- schema.sql – Database creation and table structure
-- queries.sql – All business queries
+- [schema.sql](https://github.com/AlishaMahanty85/Healthcare_Project_SQL/blob/main/Schema.sql) – Database creation and table structure
+- [queries.sql](https://github.com/AlishaMahanty85/Healthcare_Project_SQL/blob/main/Queries.sql) – All business queries
