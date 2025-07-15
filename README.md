@@ -13,6 +13,14 @@ This project simulates a Hospital Management System built using *MySQL*, designe
 
 ---
 
+## 📊 Project Objectives
+
+1. Design a normalized, relational healthcare database in MySQL
+2. Populate the database with realistic dummy data
+3. Execute and optimize 10 business-driven SQL queries
+
+---
+
 ### 🗺 Entity Relationship Diagram
 
 ![ER Diagram](https://github.com/AlishaMahanty85/Healthcare_Project_SQL/blob/main/ER_Diagram.png)
@@ -26,14 +34,6 @@ This project simulates a Hospital Management System built using *MySQL*, designe
 - Complex Joins & Aggregations
 - Window Functions (RANK(), FORMAT())
 - Time-based Queries
-
----
-
-## 📊 Project Objectives
-
-1. Design a normalized, relational healthcare database in MySQL
-2. Populate the database with realistic dummy data
-3. Execute and optimize 10 business-driven SQL queries
 
 ---
 
