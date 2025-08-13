@@ -70,7 +70,7 @@ I created a detailed PDF presentation to visually explain this SQL project, incl
 - Database schema and ER diagram
 - 10 business-focused SQL queries
 - Key insights and outcomes
-- 👉 [Click here to view the full PDF presentation](https://github.com/AlishaMahanty85/Healthcare_Project_SQL/blob/main/Hospital_Management_System-PPT_file.pdf)
+- 👉 [Click here to view the full PDF presentation](https://github.com/AlishaMahanty85/Healthcare_Project-SQL/blob/main/Hospital%20Management%20System%20Project.pdf)
 
 ---
 
