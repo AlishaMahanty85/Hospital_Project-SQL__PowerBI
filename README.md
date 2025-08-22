@@ -1,6 +1,6 @@
 # 🏥 Hospital Management System
 
-This project simulates a Hospital Management System built using *MySQL*, designed for data analysis, reporting, and query optimization using realistic relational healthcare data.
+This project simulates a **Hospital Management System** built using **MySQL** for data analysis, reporting, and query optimization, and enhanced with **interactive Power BI dashboards** to turn data into actionable insights.
 
 ---
 
@@ -15,9 +15,10 @@ This project simulates a Hospital Management System built using *MySQL*, designe
 
 ## 📊 Project Objectives
 
-1. Design a normalized, relational healthcare database in MySQL
-2. Populate the database with realistic dummy data
-3. Execute and optimize 10 business-driven SQL queries
+- Design a **normalized relational database** for healthcare operations  
+- Populate with realistic dummy data  
+- Execute & optimize **10+ business-driven SQL queries**  
+- Build **Power BI dashboards** for executive decision-making  
 
 ---
 
@@ -28,12 +29,10 @@ This project simulates a Hospital Management System built using *MySQL*, designe
 
 ## 🛠 Tools & Skills Used
 
-- SQL (MySQL)
-- Data Modeling (Normalization, Primary/Foreign Keys)
-- SELECT queries & Sub-queries 
-- Complex Joins & Aggregations
-- Window Functions (RANK(), FORMAT())
-- Time-based Queries
+- **SQL (MySQL)** – SELECT queries & Sub-queries, Joins, Aggregations, Window Functions (RANK, FORMAT), Time-based Queries (Date Functions)
+- **Data Modeling & ETL** – Normalization, Primary/Foreign Keys  
+- **Power BI** – Data visualization, DAX measures, KPIs, Slicers  
+- **Business Intelligence** – End-to-end analytics pipeline 
 
 ---
 
@@ -56,10 +55,11 @@ This project simulates a Hospital Management System built using *MySQL*, designe
 
 ## 📈 Key Insights Delivered
 
-- Highlighted top 3 patient visit reasons for improved service focus
-- Identified ₹50K+ revenue trends per month for financial planning
-- Ranked doctors based on patient load for operational decisions
-- Ranked patients by cost for insurance and billing prioritization
+- Identified **top 3 reasons for hospital visits** for improved service planning  
+- Highlighted **₹50K+ monthly revenue trends** for financial strategy  
+- Ranked **doctors by patient load** for operational decisions  
+- Ranked **patients by total cost** for billing and insurance prioritization  
+- Created **4 Power BI dashboards**: Hospital Snapshot, Doctor Performance, Patient Insights, Financial Overview
 
 ---
 
@@ -78,3 +78,4 @@ I created a detailed PDF presentation to visually explain this SQL project, incl
 
 - [schema.sql](https://github.com/AlishaMahanty85/Healthcare_Project_SQL/blob/main/Schema.sql) – Database creation and table structure
 - [queries.sql](https://github.com/AlishaMahanty85/Healthcare_Project_SQL/blob/main/Queries.sql) – All business queries
+- [Hospital_Analytics_Dashboard.pbix](https://github.com/AlishaMahanty85/Healthcare_Project-SQL/blob/main/Hospital_Analytics_Dashboard.pbix)
