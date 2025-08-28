@@ -65,22 +65,22 @@ This project simulates a **Hospital Management System** built using **MySQL** fo
 
 ## 📈 Dashboard Insights
 
-1. 🏥 **Hospital Snapshot**
+1. [🏥 **Hospital Snapshot**](https://github.com/AlishaMahanty85/Hospital_Project-SQL__PowerBI/blob/main/Hospital_Snapshot.png)
 - Shows total patients, active doctors, and monthly revenue at a glance
 - Highlights real-time hospital performance metrics
 - Helps management monitor overall operational health instantly
 
-2. 👨‍⚕️ **Doctor Performance**
+2. [👨‍⚕️ **Doctor Performance**](https://github.com/AlishaMahanty85/Hospital_Project-SQL__PowerBI/blob/main/Doctors_Performance.png)
 - Identifies doctors with the highest appointment load
 - Highlights patient trust and efficiency trends
 - Reveals opportunities for resource allocation and mentoring
 
-3. 🧑‍🤝‍🧑 **Patient Insights**
+3. [🧑‍🤝‍🧑 **Patient Insights**](https://github.com/AlishaMahanty85/Hospital_Project-SQL__PowerBI/blob/main/Patients_Insights.png)
 - Displays treatment trends and visit frequency
 - Identifies high-value patients based on total billing
 - Highlights frequent visitors for retention and follow-up programs
 
-4. 💰 **Financial Overview**
+4. [💰 **Financial Overview**](https://github.com/AlishaMahanty85/Hospital_Project-SQL__PowerBI/blob/main/Financial_Overview.png)
 - Tracks monthly revenue patterns with peaks and drops
 - Highlights pending and failed payments
 - Shows most-used payment methods to optimize billing flow
